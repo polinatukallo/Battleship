@@ -1,4 +1,4 @@
-# Battleship Game - Console Implementation
+# Battleship Game 
 
 ## Overview
 
